@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="GAE_PATH" value="C:/Program Files (x86)/Google/google_appengine" />
+  </component>
+</application>
